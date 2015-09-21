@@ -51,7 +51,7 @@ Here's what her samples looked like when she submitted them to the DNA facility.
 
 Take a couple minutes to look at this data, can you identify some problems with this datasheet?
 
-[Some tips on file organization](02-common-mistakes.html)
+[Some tips on file organization](http://www.datacarpentry.org/spreadsheet-ecology-lesson/02-common-mistakes.html)
 
 **Important!** If you are going to be doing any cleaning of your spreadsheet, make sure 
 you're keeping your raw data raw and taking notes on any cleaning you do. Before you 
