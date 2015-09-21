@@ -61,7 +61,7 @@ with your notes. This way the notes and data stay together.
 
 This might be an example of a spreadsheet setup:
 
-![spreadsheet setup](fig/spreadsheet-setup.png)
+![spreadsheet setup](img/spreadsheet-setup.png)
 
 Put these principles in to practice today during your Exercises. 
 
@@ -89,7 +89,7 @@ weight, sex and date collected.
 
 If they were to keep track of the data like this:
 
-![multiple-info example](fig/multiple-info.png)
+![multiple-info example](img/multiple-info.png)
 
 the problem is that species and sex are in the same field. So, if they wanted to 
 look at all of one species or look at different weight distributions by sex, 
@@ -103,7 +103,7 @@ variables**, **rows = observations**, **cells = data** (values).
 
 So, instead we should have:
 
-![single-info example](fig/single-info.png)
+![single-info example](img/single-info.png)
 
 ## Exercise
 
