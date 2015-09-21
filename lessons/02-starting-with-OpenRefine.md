@@ -1,3 +1,11 @@
+---
+layout: lesson
+root: .
+title: OpenRefine for Data Cleaning
+minutes: 30
+author: Deb Paul
+---
+
 
 # Data Carpentry Open Refine Demo
 
