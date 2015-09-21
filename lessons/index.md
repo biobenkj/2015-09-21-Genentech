@@ -8,8 +8,6 @@ topic: Genentech workshop lessons
 
 - [Intro to tidy data](00-intro-to-data-tidy.html)
 
-- [Formatting data](01-format-data.html)
-
 - [OpenRefine for data cleaning](02-starting-with-OpenRefine.html)
 
 - [Introduction the dataset](1-intro-to-ecoli-evo-experient.html)
