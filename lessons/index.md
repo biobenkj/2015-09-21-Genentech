@@ -1,3 +1,9 @@
+---
+layout: lesson
+root: .
+topic: Genentech workshop lessons
+---
+
 ## Lessons for Genentech workshop
 
 - [Intro to tidy data](00-intro-to-data-tidy.html)
